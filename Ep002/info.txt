@@ -1,0 +1,7 @@
+For Windows version
+
+access dir 'build'
+exec: cmake ..\source\
+
+Access dir 'build' using 'Developer Powershell Visual Studio'
+exec: msbuild .\HelloApp.sln 
