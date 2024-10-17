@@ -1,5 +1,4 @@
 For Windows version
-
 create and access dir 'build'
 exec: cmake ..\source\
 Access dir 'build' using 'Developer Powershell Visual Studio'
