@@ -11,7 +11,7 @@ project(
 file(GLOB_RECURSE SOURCE_FILES src/*.cpp)
 add_executable(HelloBinary main.cpp ${SOURCE_FILES})
 
-#List your sources
+#List your sources explicitly
 #add_executable(
 #    HelloBinary main.cpp
 #    src/dog.cpp src/operations.cpp
