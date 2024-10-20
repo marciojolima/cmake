@@ -30,7 +30,6 @@ cmake_minimum_required(VERSION 3.20)
 
 project(rooster)
 
-
 set(OUR_PROJECT_VERSION "One")
 
 #setup a cache variable
